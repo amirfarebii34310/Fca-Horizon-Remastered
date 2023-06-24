@@ -1,22 +1,22 @@
 {
-  "name": "fca-horizon-remastered",
+  "name": "fca-farebii-amir",
   "version": "1.5.2",
-  "description": "Facebook-chat-api protect and deploy by Kanzu and HZI Team",
+  "description": "Facebook-chat-api protected By Farebii Amir",
   "main": "Index.js",
   "scripts": {
     "test": "mocha",
     "lint": "./node_modules/.bin/eslint *.js",
     "prettier": "prettier utils.js src/* --write"
   },
-  "author": "Avery, David, Maude, Benjamin, UIRI, KanzuWakazaki",
+  "author": "Farebi Amir",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KanzuXHorizon/Fca-Horizon-Remastered/issues"
+    "url": "https://github.com/amirfarebii34310/Fca-Horizon-Remastered/issues"
   },
-  "homepage": "https://github.com/KanzuXHorizon/Fca-Horizon-Remastered#readme",
+  "homepage": "https://github.com/amirfarebii34310/Fca-Horizon-Remastered#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/KanzuXHorizon/Fca-Horizon-Remastered.git"
+    "url": "https://github.com/amirfarebii34310/Fca-Horizon-Remastered.git"
   },
   "dependencies": {
     "aes-js": "latest",
