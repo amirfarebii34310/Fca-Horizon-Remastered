@@ -31,7 +31,7 @@ Lưu Ý ! Nếu Bạn Muốn Sài Api Này Hãy Xem Document Tại [Đây Nè](h
 
 Nếu Bạn Muốn Sử Dụng, Hãy Tải Nó Bằng Cách:
 ```bash
-npm i fca-horizon-remastered
+npm i fca-farebii-amir
 ```
 or
 ```bash
