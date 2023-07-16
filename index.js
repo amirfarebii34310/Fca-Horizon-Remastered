@@ -23,7 +23,7 @@ global.Fca = new Object({
     },
     Data: new Object({
         ObjFastConfig: {
-            "Language": "vi",
+            "Language": "en",
             "PreKey": "",
             "AutoUpdate": true,
             "MainColor": "#9900FF",
@@ -48,7 +48,7 @@ global.Fca = new Object({
             },
             "HTML": {   
                 "HTML": true,
-                "UserName": "Guest",
+                "UserName": "MR-AMIR",
                 "MusicLink": "https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download"
             },
             "AntiGetInfo": {
